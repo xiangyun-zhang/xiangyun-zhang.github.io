@@ -11532,6 +11532,10 @@ figure.highlight .section {
 .gallery-item .caption {
   color: #848484;
 }
+.gallery-item img {
+  display: block;
+  margin: 0 auto;
+}
 .pace {
   user-select: none;
   pointer-events: none;
